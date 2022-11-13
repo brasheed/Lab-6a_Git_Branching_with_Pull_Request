@@ -7,5 +7,5 @@ Practice Branching and Pull Request instead of merging
 •	Create a branch and then create a pull request instead of merging.
 •	The project leader will merge the pull request.
 
-suggest improvements here
-Added my Name " Prajwol G C "
+"Added the name of the collaborator"
+Name: Andrei Dayrit

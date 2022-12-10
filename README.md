@@ -9,4 +9,4 @@ Practice Branching and Pull Request instead of merging
 
 suggest improvements here
 
-Added my Name Collin Haman
+Added my Name Noah Clayton
